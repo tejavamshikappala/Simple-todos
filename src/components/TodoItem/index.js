@@ -1,7 +1,7 @@
 import './index.css'
 
 const TodoItem = props => {
-  const {eachTodo, key, onDeleting} = props
+  const {eachTodo, onDeleting} = props
   const {id, title} = eachTodo
 
   const onDelete = () => {

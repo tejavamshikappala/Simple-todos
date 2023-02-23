@@ -24,4 +24,6 @@
   color: #ff0b37;
   align-self: flex-end;
   padding: 7px;
+  cursor: pointer;
+  outline: none;
 }
