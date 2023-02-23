@@ -1,0 +1,23 @@
+.forOuterDiv {
+  background-color: #ffc2a0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.forHeader {
+  color: #ff8542;
+  font-family: 'Roboto';
+  text-align: center;
+  font-size: 24px;
+}
+.forUl {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 10px;
+  overflow: auto;
+  margin-right: 10px;
+}
