@@ -9,11 +9,11 @@ const TodoItem = props => {
   }
 
   return (
-    <li className="forList">
-      <div className="forDiv">
-        <p className="forListTopic">{title}</p>
+    <li className="for-list">
+      <div className="for-div">
+        <p className="for-list-topic">{title}</p>
         <div>
-          <button className="forButton" type="button" onClick={onDelete}>
+          <button className="for-button" type="button" onClick={onDelete}>
             Delete
           </button>
         </div>

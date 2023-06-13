@@ -52,9 +52,9 @@ class SimpleTodos extends Component {
     const {todoList} = this.state
 
     return (
-      <div className="forOuterDiv">
-        <ul className="forUl">
-          <h1 className="forHeader">Simple Todos</h1>
+      <div className="for-outer-div">
+        <ul className="for-ul">
+          <h1 className="for-header">Simple Todos</h1>
           {todoList.map(every => (
             <TodoItem
               eachTodo={every}

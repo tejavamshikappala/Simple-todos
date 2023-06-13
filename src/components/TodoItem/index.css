@@ -1,22 +1,22 @@
-.forDiv {
+.for-div {
   display: flex;
   align-items: center;
   justify-content: space-between;
   font-family: 'Roboto';
 }
-.forList {
+.for-list {
   margin-left: 30px;
   margin-right: 30px;
   list-style: none;
 }
-.forListTopic {
+.for-list-topic {
   color: #000000;
   font-size: 16px;
   align-self: flex-start;
   flex-wrap: wrap;
   margin-right: 40px;
 }
-.forButton {
+.for-button {
   background-color: transparent;
   border-style: solid;
   border-radius: 12px;

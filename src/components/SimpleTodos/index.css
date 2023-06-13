@@ -1,18 +1,18 @@
-.forOuterDiv {
+.for-outer-div {
   background-color: #ffc2a0;
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.forHeader {
+.for-header {
   color: #ff8542;
   font-family: 'Roboto';
   text-align: center;
   font-size: 24px;
   margin-bottom: 30px;
 }
-.forUl {
+.for-ul {
   background-color: #ffffff;
   border-radius: 10px;
   padding: 20px;
@@ -24,7 +24,7 @@
   width: 80vw;
 }
 @media screen and (min-width: 768px) {
-  .forHeader {
+  .for-header {
     font-size: 32px;
     margin-bottom: 40px;
   }
